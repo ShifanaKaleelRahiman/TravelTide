@@ -1,2 +1,2 @@
-# TravelTide
-🌊Traveltide Customer Segmentation and Analysis Project🌊
+# 🌊Traveltide Customer Segmentation and Analysis Project🌊
+The goal of this project is to support TravelTide, an emerging e-booking startup, in designing and executing a customer-centric rewards program that will drive retention and increase repeat business. Working closely with Elena Tarrant, the new Head of Marketing, we the Analytics team, analyzed and segmented customer data to support the development of a personalized rewards program aimed at improving customer retention and engagement. Our analysis focuses on understanding customer behavior based on their booking patterns, travel habits, demographics, and spending, allowing us to recommend perks most suited to each customer group.
